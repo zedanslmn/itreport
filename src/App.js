@@ -64,6 +64,7 @@ function App() {
   };
 
   return (
+
     <div style={styles.container}>
       <h1>IT General Report</h1>
       <div style={styles.inputContainer}>
