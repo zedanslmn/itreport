@@ -9,7 +9,7 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 1s linear;
   }
 }
 
@@ -21,11 +21,11 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(249, 245, 245);
 }
 
 .App-link {
-  color: #61dafb;
+  color: #158c8c;
 }
 
 @keyframes App-logo-spin {
